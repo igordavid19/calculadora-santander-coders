@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma aplicação simples de uma calculadora como parte do projeto módulo de Empregabilidade no **Santander Coders**.
+Este projeto é uma aplicação simples de uma calculadora como parte do módulo de Empregabilidade no **Santander Coders**.
 
 
 ## Tecnologias Utilizadas
